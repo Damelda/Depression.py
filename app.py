@@ -1,7 +1,6 @@
 import streamlit as st
 import joblib
 import pandas as pd
-from sklearn.utils import _joblib as joblib  # Preferred for scikit-learn
 
 
 # Load the model
